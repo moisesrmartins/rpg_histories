@@ -13,15 +13,15 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "infinite", // Usually your GitHub org/user name.
+  organizationName: "Moisesrmartins", // Usually your GitHub org/user name.
   projectName: "infiniteword", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "pt-br",
-    locales: ["pt-br"],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
@@ -62,9 +62,9 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "As Palavras",
+            label: "The Words",
           },
-          { to: "/blog", label: "Atualizações", position: "left" },
+          { to: "/blog", label: "Updates", position: "left" },
           {
             href: "https://github.com/moisesrmartins/rpg_histories",
             label: "GitHub",
@@ -79,7 +79,7 @@ const config = {
             title: "Words",
             items: [
               {
-                label: "As Palavras",
+                label: "The Words",
                 to: "/docs/intro",
               },
             ],
@@ -88,7 +88,7 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Atualizações",
+                label: "Updates",
                 to: "/blog",
               },
             ],
