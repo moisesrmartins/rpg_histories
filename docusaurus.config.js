@@ -1,14 +1,11 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
-  url: "https://your-docusaurus-test-site.com",
+  title: "Infinite Word",
+  tagline: "Words are INFINITE",
+  url: "https://infinite-word.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -16,15 +13,15 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "infinite", // Usually your GitHub org/user name.
+  projectName: "infiniteword", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "pt-br",
+    locales: ["pt-br"],
   },
 
   presets: [
@@ -36,15 +33,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/moisesrmartins/rpg_histories",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/moisesrmartins/rpg_histories",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -57,9 +52,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "Infinite Word",
         logo: {
-          alt: "My Site Logo",
+          alt: "Infinite Word Logo",
           src: "img/logo.svg",
         },
         items: [
@@ -67,11 +62,11 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorial",
+            label: "As Palavras",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "Atualizações", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/moisesrmartins/rpg_histories",
             label: "GitHub",
             position: "right",
           },
@@ -81,10 +76,10 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Words",
             items: [
               {
-                label: "Tutorial",
+                label: "As Palavras",
                 to: "/docs/intro",
               },
             ],
@@ -93,38 +88,30 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "Atualizações",
+                to: "/blog",
               },
             ],
           },
           {
-            title: "More",
+            title: "Contact",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Instagram",
+                href: "https://www.instagram.com/moisesrmartins/",
+              },
+              {
+                label: "Twitter",
+                href: "https://twitter.com/MoisesM45618859",
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/moisesrmartins/rpg_histories",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built by Moises Rodrigues Martins.`,
       },
     }),
 };
