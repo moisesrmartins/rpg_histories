@@ -4,32 +4,32 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "Easy to Use",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    title: "Infinite Word",
+    Svg: require("@site/static/img/infinite_logo.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Welcome to the Infinite Word, here you will find several stories and
+        texts, everything is made for fun, WELCOME and ENJOY.
       </>
     ),
   },
   {
-    title: "Focus on What Matters",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    title: "The Words",
+    Svg: require("@site/static/img/words.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Accessing <code>The Words</code> tab you will find texts and images of
+        stories made by me and my friends.
       </>
     ),
   },
   {
-    title: "Powered by React",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    title: "Updates",
+    Svg: require("@site/static/img/updates.svg").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Accessing the <code>Updates</code> tab, you will find the changes made
+        on the site, everything that has been updated will be there.
       </>
     ),
   },
