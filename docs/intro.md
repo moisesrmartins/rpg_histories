@@ -2,46 +2,62 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Prefácio
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Venha comigo, **vamos descobrir um pouco do que te aguarda**.
 
-## Getting Started
+## Introdução
 
-Get started by **creating a new site**.
+Uma pequena introdução de **As Palavras**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Ou **siga em frente** e **descubra por si mesmo(a)** o que <code>As Palavras</code> te reservam.
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
+### O que encontrar aqui ?
 
 ```bash
-npm init docusaurus@latest my-website classic
+- Contos e Histórias:
+  - Obviamente o que está aqui são textos, não comuns, são contos dos mais diversos tipos e modelos.
+  - Cada conto entrega uma experiência e narrativa diferentes.
+  - A interpretação, compreensão e entendimento vem da responsabilidade do leitor(a).
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
+## Existe alguma ORDEM a se seguir ??:
 
 ```bash
-cd my-website
-npm run start
+- Sim e Não
+  - Algumas histórias/contos possuem uma ordem e mundo e tempo específico que se passam e devem ser lidos.
+  - Outros não. Estes, podem ser lidos sem se preocupar com especificações.
+  - Quais são as Especificações:
+    - Mundo
+    - Realidade
+    - E Ordem
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+```bash
+- Obs:
+  - Os contos vão ficar separados e organizados para facilitar o entendimento.
+  - Alguns contos seram marcados como PARTE ou ARCO, etc.
+    - Parte será usado para indicar qual história/conto é.
+    - Arco será usado para indicar pontos narrativos focados em um personagem.
+      - Este por fim, será usado para contar algo a respeito deste personagem
+      - Exemplo: Contar sobre o passado dele.
+```
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+## Por onde começar ?
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Essa é uma resposta muito simples, que irei contar abaixo!
+
+```bash
+- POR ONDE VOCÊ QUISER.
+  - 1
+    - Todos os contos, desde que estejam a mostra podem ser lidos de forma independente.
+  - 2
+    - Como expliquei acima, só é necessário ler um conto de forma específica se este possuir algum indicativo, seja por conter Parte, Arco ou estar em uma lista específica.
+```
+## Finalização
+
+Bom, é isso. Uma rápida e pequena leitura.
+
+Para quem leu até aqui, muito obrigado e espero que encontre um conto/história que lhe agrade.
+
+Para os que pularam tudo isso e foram direto para a leitura que buscam, o mesmo.
