@@ -4,32 +4,32 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "Infinite Word",
+    title: "Palavra Infinita",
     Svg: require("@site/static/img/infinite_logo.svg").default,
     description: (
       <>
-        Welcome to the Infinite Word, here you will find several stories and
-        texts, everything is made for fun, WELCOME and ENJOY.
+        Bem-vindo a Palavra Infinita, você encontrará diversas histórias e
+        textos, tudo feito para a diversão, BEM-VINDO e APROVEITE.
       </>
     ),
   },
   {
-    title: "The Words",
+    title: "As Palavras",
     Svg: require("@site/static/img/words.svg").default,
     description: (
       <>
-        Accessing <code>The Words</code> tab you will find texts and images of
-        stories made by me and my friends.
+        Acessando a aba <code>As Palavras</code> você encontra textos e imagens
+        de histórias feitas por mim.
       </>
     ),
   },
   {
-    title: "Updates",
+    title: "Atualizações",
     Svg: require("@site/static/img/updates.svg").default,
     description: (
       <>
-        Accessing the <code>Updates</code> tab, you will find the changes made
-        on the site, everything that has been updated will be there.
+        Acessando a aba <code>Atualizações</code>, você encontra as alterações
+        feitas no site, tudo que foi atualizado e acrescentado estará lá.
       </>
     ),
   },

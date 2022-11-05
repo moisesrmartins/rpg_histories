@@ -3,8 +3,8 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Infinite Word",
-  tagline: "Words are INFINITE",
+  title: "Palavra Infinita",
+  tagline: "Palavras são INFINITAS",
   url: "https://infinite-word.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -20,8 +20,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "PT-BR",
+    locales: ["PT-BR"],
   },
 
   presets: [
@@ -52,7 +52,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Infinite Word",
+        title: "Palavra Infinita",
         logo: {
           alt: "Infinite Word Logo",
           src: "img/logo.svg",
@@ -62,9 +62,10 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "The Words",
+            label: "As Palavras",
           },
-          { to: "/blog", label: "Updates", position: "left" },
+          { to: "/blog", label: "Atualizações", position: "left" },
+
           {
             href: "https://github.com/moisesrmartins/rpg_histories",
             label: "GitHub",
@@ -76,25 +77,27 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Words",
+            title: "Palavras",
             items: [
               {
-                label: "The Words",
+                label: "As Palavras",
                 to: "/docs/intro",
               },
             ],
           },
           {
-            title: "Community",
+            title: "Comunidade",
             items: [
               {
-                label: "Updates",
+                label: "Atualizações",
                 to: "/blog",
+
+                position: "center",
               },
             ],
           },
           {
-            title: "Contact",
+            title: "Contato",
             items: [
               {
                 label: "Instagram",
@@ -111,7 +114,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built by Moises Rodrigues Martins.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Construido por Moises Rodrigues Martins com a utilização do Docusaurus.`,
       },
     }),
 };
