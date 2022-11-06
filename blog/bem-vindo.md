@@ -1,6 +1,6 @@
 ---
-slug: ola visitante
-title: Olá Visitante
+slug: bem vindo
+title: Bem-Vindo
 authors: [moises]
 tags: [Novo, Acrescentado, Adicionado]
 ---

@@ -1,6 +1,6 @@
 ---
-slug: bem vindo
-title: Bem-Vindo
+slug: logo
+title: Logo da Palavra Infinita
 authors: [moises]
 tags: [Novo, Acrescentado, Adicionado]
 ---
