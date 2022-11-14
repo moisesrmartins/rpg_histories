@@ -64,7 +64,6 @@ const config = {
             position: "left",
             label: "As Palavras",
           },
-          { to: "/blog", label: "Atualizações", position: "left" },
 
           {
             href: "https://github.com/moisesrmartins/rpg_histories",
@@ -89,8 +88,8 @@ const config = {
             title: "Comunidade",
             items: [
               {
-                label: "Atualizações",
-                to: "/blog",
+                label: "GitHub",
+                to: "https://github.com/moisesrmartins/rpg_histories",
 
                 position: "center",
               },
@@ -101,15 +100,11 @@ const config = {
             items: [
               {
                 label: "Instagram",
-                href: "https://www.instagram.com/moisesrmartins/",
+                to: "https://www.instagram.com/moisesrmartins/",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/MoisesM45618859",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/moisesrmartins/rpg_histories",
+                to: "https://twitter.com/MoisesM45618859",
               },
             ],
           },

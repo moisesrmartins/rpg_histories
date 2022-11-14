@@ -4,6 +4,11 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
+    title: "",
+    Svg: require("@site/static/img/words.svg").default,
+    description: <></>,
+  },
+  {
     title: "Palavra Infinita",
     Svg: require("@site/static/img/infinite_logo.svg").default,
     description: (
@@ -14,24 +19,9 @@ const FeatureList = [
     ),
   },
   {
-    title: "As Palavras",
+    title: "",
     Svg: require("@site/static/img/words.svg").default,
-    description: (
-      <>
-        Acessando a aba <code>As Palavras</code> você encontra textos e imagens
-        de histórias feitas por mim.
-      </>
-    ),
-  },
-  {
-    title: "Atualizações",
-    Svg: require("@site/static/img/updates.svg").default,
-    description: (
-      <>
-        Acessando a aba <code>Atualizações</code>, você encontra as alterações
-        feitas no site, tudo que foi atualizado e acrescentado estará lá.
-      </>
-    ),
+    description: <></>,
   },
 ];
 
