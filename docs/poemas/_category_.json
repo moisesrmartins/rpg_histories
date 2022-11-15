@@ -1,0 +1,8 @@
+{
+  "label": "As Palavras - Poemas",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Aqui estão os poemas."
+  }
+}
