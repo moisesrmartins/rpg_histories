@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # O Rei e o Lírio
 
-##
-
 A tempos, um pequeno reino surgiu, dele reis, príncipes e cavaleiros apareceram. Reis que traziam a paz, e reis que traziam a guerra.
 
 No pequeno Reino, a discórdia gerada pelos homens era tamanha que de pouco em pouco os deuses se aborreciam, dentre eles, um que era chamado de O Viajante decidiu confrontar este reino e expurgar de lá a discórdia.
