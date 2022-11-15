@@ -107,11 +107,11 @@ Estou na obra de arte que nunca se apagará
 Na obra que será exposta
 </p>
 
-<p>Todos iram ver
+<p>Todos irão ver
 <br/>
-Todos iram aplaudir
+Todo irão aplaudir
 <br/>
-E todos iram se curvar</p>
+E todos irão se curvar</p>
 
 <p>Perante a casa que fiz
 <br/>

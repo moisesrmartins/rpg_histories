@@ -18,13 +18,13 @@ Vá até o alto da colina e só volte quando possuir um lírio, se ele morrer en
 
 E porque deveria acreditar nas palavras de um velho frágil? - E com um pequeno riso o Deus falou: Tem medo?
 
-O Rei, cego pela arrogância e discórdia subiu até a montanha, e lá por 6 dias esperou até que o Lírio brotou e floresceu, ao trazê-lo de volta, não mais existia. Por ter falhado, o Viajante lhe deu mais uma chance, e mês por mês, ano após ano, o rei continuava trazendo um lírio morto.
+O Rei, cego pela arrogância e discórdia subiu até a montanha, e lá por seis dias esperou até que o Lírio brotou e floresceu, ao trazê-lo de volta, não mais existia. Por ter falhado, o Viajante lhe deu mais uma chance, e mês por mês, ano após ano, o rei continuava trazendo um lírio morto.
 
-Um belo dia, O Viajante se cansou e disse que não havia mais salvação e que destruiria tudo, apavorado o Rei se ajoelha e diz: Por favor, não machuque estás pessoas, entrego a mim mesmo para ti, mas não mate o povo. Nesse momento, o rei afundou sua mão em seu peito e de lá arrancou seu coração.
+Um belo dia, O Viajante se cansou e disse que não havia mais salvação e que destruiria tudo, apavorado o Rei se ajoelha e diz: Por favor, não machuque estas pessoas, entrego a mim mesmo para ti, mas não mate o povo. Nesse momento, o rei afundou sua mão em seu peito e de lá arrancou seu coração.
 
 Então agora você entendeu não é, finalmente me trouxe o Lírio que pedi. O Viajante fala enquanto abre a mão do Rei e dele tira o Lírio.
 
-Como assim - Disse o Rei, que bruxaria é essa? Perguntou
+Como assim!- Disse o Rei, que bruxaria é essa? - Perguntou
 
 Nenhuma, o Lírio é a Esperança que eu tinha que a Discórdia não os tomaria de sua mente.
 
