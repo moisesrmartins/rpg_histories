@@ -66,8 +66,14 @@ const config = {
           },
 
           {
-            href: "https://github.com/moisesrmartins/rpg_histories",
+            to: "https://github.com/moisesrmartins/rpg_histories",
             label: "GitHub",
+            position: "right",
+          },
+
+          {
+            to: "https://www.linkedin.com/in/moises-rodrigues-martins-202459229/",
+            label: "Linkedin",
             position: "right",
           },
         ],
@@ -90,6 +96,13 @@ const config = {
               {
                 label: "GitHub",
                 to: "https://github.com/moisesrmartins/rpg_histories",
+
+                position: "center",
+              },
+
+              {
+                label: "Linkedin",
+                to: "https://www.linkedin.com/in/moises-rodrigues-martins-202459229/",
 
                 position: "center",
               },
