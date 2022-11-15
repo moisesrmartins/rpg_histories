@@ -5,7 +5,7 @@ sidebar_position: 3
 # Monalisa
 
 <p>
-Vc é a minha Monalisa
+Vc é a minha Dama
 <br/>
 Teu jeito
 <br/>
